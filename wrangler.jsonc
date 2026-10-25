@@ -254,3 +254,13 @@
   //   { "binding": "R2", "bucket_name": "your-bucket" }
   // ],
 }
+{
+  // ...
+  "kv_namespaces": [
+    {
+      "binding": "openlist-kv",
+      "id": "1b54ac88c00e43ed9f650a7e38990390"
+    }
+  ],
+  // ...
+}
